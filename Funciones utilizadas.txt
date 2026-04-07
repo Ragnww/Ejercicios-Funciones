@@ -1,0 +1,5 @@
+Funciones utilizadas:
+- len
+- append
+
+el resto son solo if y for
